@@ -1,0 +1,15 @@
+C:\Users\Adam Pacek\source\repos\CatM\CatM\bin\Debug\CatM.exe.config
+C:\Users\Adam Pacek\source\repos\CatM\CatM\bin\Debug\CatM.exe
+C:\Users\Adam Pacek\source\repos\CatM\CatM\bin\Debug\CatM.pdb
+C:\Users\Adam Pacek\source\repos\CatM\CatM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adam Pacek\source\repos\CatM\CatM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.csproj.AssemblyReference.cache
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.csproj.ResolveComReference.cache
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.Form1.resources
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.Properties.Resources.resources
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.csproj.GenerateResource.cache
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.csproj.CoreCompileInputs.cache
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.exe
+C:\Users\Adam Pacek\source\repos\CatM\CatM\obj\Debug\CatM.pdb
